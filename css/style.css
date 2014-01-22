@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #183026 url('../images/me.jpg') no-repeat;
+		background: url('../images/me.jpg') no-repeat;
 		background-size: cover;
 		background-position: center 0;
 		background-attachment: fixed;
