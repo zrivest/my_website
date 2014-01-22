@@ -227,7 +227,7 @@
 				bottom: -2.25em;
 				margin-left: -22.5px;
 				margin-bottom: -16.5px;
-			/*	background-size: 45px 33px;*/
+			*	background-size: 45px 33px;
 			}
 
 /*********************************************************************************/
@@ -237,7 +237,7 @@
 	#banner
 	{
 		padding: 3em 2em 3em 2em;
-		background-size: auto 150%;
+		background-size: auto 100%;
 	}
 
 		#banner header
